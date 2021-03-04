@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\Bravo\bin\Debug\Bravo.exe.config
+C:\Users\felix\source\repos\Bravo\bin\Debug\Bravo.exe
+C:\Users\felix\source\repos\Bravo\bin\Debug\Bravo.pdb
+C:\Users\felix\source\repos\Bravo\obj\Debug\Bravo.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\Bravo\obj\Debug\Bravo.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Bravo\obj\Debug\Bravo.exe
+C:\Users\felix\source\repos\Bravo\obj\Debug\Bravo.pdb
